@@ -8,7 +8,7 @@ _______________________________________
   
   
   
-https://github.com/pezhmanmehri/hack-instagram/archive/refs/heads/main.zip
+https://github.com/pezhmanmehri/hack-instagram.git
 <br><br>
 و یک هاست و دامنه تهیه کنید و فایل اسکریپت رو در اون آپلود کنید و لینک رو به تارگت بدید ، 
 <br>
